@@ -1,4 +1,5 @@
 Structure query langauge-To Store data into database
 CRUD Operation
 it is used to communicate with DBMS.  SiddhiPatole
-where C stands for CREATE, R stands for Read, U stands for Update and D stands for Delete. ----by Gauri Choudhari.
+where C stands for CREATE, R stands for Read, U stands for Update and D stands for Delete. ----by Gauri Choudhari
+we studies the forign key and primary key
