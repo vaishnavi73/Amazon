@@ -3,4 +3,4 @@ CRUD Operation
 it is used to communicate with DBMS.  SiddhiPatole
 where C stands for CREATE, R stands for Read, U stands for Update and D stands for Delete. ----by Gauri Choudhari.
 SQL is standard language to communicate with RDBMS. -Priti Jadhav
-whe can store data in table with the help of sql-Rutuja
+we can store data in table with the help of sql-Rutuja
