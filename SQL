@@ -1,4 +1,4 @@
 Structure query langauge-To Store data into database
 CRUD Operation
-it is used to communicate with DBMS.  SiddhiPatole
-where C stands for CREATE, R stands for Read, U stands for Update and D stands for Delete. ----by Gauri Choudhari
+it is used to communicate with DBMS.  
+in sql we studies the stucture query lanuage vaishnavi
