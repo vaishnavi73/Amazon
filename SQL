@@ -1,2 +1,2 @@
 Structure query langauge-To Store data into database
-where DB is a container
+CRUD Operation
